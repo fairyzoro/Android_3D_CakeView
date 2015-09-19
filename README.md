@@ -8,3 +8,4 @@ Output: A 3D CakeView
 
 have fun~~   
 
+![image](https://github.com/rabbitinhere/Android_3D_CakeView/raw/master/preview.png)
